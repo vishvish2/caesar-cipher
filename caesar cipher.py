@@ -25,3 +25,4 @@ for letter in range(0, len(Plain_Text)):
         Cipher_Text.append(Capitals[new2])
 
 print("".join(Cipher_Text), "is your encrypted text")
+print("New2 Test")
